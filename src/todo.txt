@@ -1,0 +1,3 @@
+- Add speed control, rather than just having everything run as fast as possible.
+- Make the 'Reset' button not reset temperature to the default.
+- Maybe allow simulations to have custom control logic?
